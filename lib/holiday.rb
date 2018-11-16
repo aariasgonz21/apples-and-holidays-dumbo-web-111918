@@ -81,7 +81,7 @@ def all_holidays_with_bbq(holiday_hash)
     }
   }
   
-bbq_holidays
+return bbq_holidays
 end
 
 
